@@ -50,27 +50,40 @@ We _differentiate_ our self from the rest of the apps in the market by:
 
 ## PACKAGES USED
 
-- flutter_scanner_cropper:
-  - git:
-    - url: https://github.com/Ethereal-Developers-Inc/flutter-scanner-plugin.git
-    - ref: master
-    - path: flutter_scanner_cropper/
-- cupertino_icons: ^0.1.3
-- flutter_speed_dial: ^1.2.5
-- focused_menu: ^1.0.1
-- image_picker: ^0.8.4
-- open_file: ^3.2.1
-- path_provider: ^2.0.2
-- pdf: ^3.6.0
-- permission_handler: ^8.0.1
-- quick_actions: ^0.6.0+2
-- reorderables: ^0.3.2
-- share_extend: ^1.1.9
-- shared_preferences: ^0.5.7+3
-- simple_animated_icon: ^1.0.0
-- sqflite: ^1.3.1+2
-- url_launcher: ^6.0.6
-
+- camera:
+- git:
+  - url: https://github.com/camsim99/plugins.git
+  - path: packages/camera/camera
+  - ref: master
+- cupertino_icons: ^1.0.3
+- exif: ^3.1.2
+- flutter:
+  - sdk: flutter
+- flutter_bloc: ^8.1.1
+- flutter_localizations:
+  - sdk: flutter
+  - version: ^0.0.0
+- flutter_speed_dial: ^5.0.0+1
+- focused_menu: ^1.0.5
+- image: ^3.2.0
+- image_picker: 0.8.4+8
+- intl: 0.18.1
+- multi_image_picker: ^4.8.01
+- open_filex: ^4.3.2
+- path: ^1.8.2
+- path_provider: ^2.0.5
+- pdf: ^3.8.4
+- permission_handler: ^10.2.0
+- quick_actions: ^0.6.0+7
+- reorderables: ^0.6.0
+- sensors_plus: ^1.2.1
+- share_extend: ^2.0.0
+- shared_preferences: ^2.0.8
+- simple_animated_icon: ^1.1.0
+- sqflite: ^2.0.0+4
+- url_launcher: ^6.0.12
+- vector_math: 
+  
 # BUILD INSTRUCTIONS
 
 Set up flutter on your local machine [Official Flutter Docs](https://flutter.dev/docs/get-started/install)

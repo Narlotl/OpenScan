@@ -1,3 +1,9 @@
+# Cloned
+Cloned from [ethereal-developers/OpenScan/dev_v3](https://github.com/ethereal-developers/OpenScan/tree/dev_v3)
+## Changes (Android)
+- Adaptive icons
+- Fixed crop screen
+
 <p align="center">
 <img src="https://github.com/Ethereal-Developers-Inc/OpenScan/blob/master/assets/scan_g.jpeg" height=300>
 </p>

@@ -6,13 +6,6 @@
 <H3 align='center'>Reclaim your Privacy</H3>
 <br>
 
-<p align='center'>
-<a href="https://play.google.com/store/apps/details?id=com.ethereal.openscan" alt="Get it on Google Play"><img src="https://github.com/Ethereal-Developers-Inc/OpenScan/blob/dev_v3/assets/Playstore.png" width=200></a>
-<a href="https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan" alt="Get it on IzzyOnDroid"><img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" width=200></a>
-<br>
-(Build instructions present at the bottom of the file)
-</p>
-
 # About this app
 
 Our open source document scanner app will enable you to scan anything (official documents, notes, photos, business cards, etc.) and convert it into a PDF file and share it via any messaging app that allows it.
@@ -91,7 +84,7 @@ Set up flutter on your local machine [Official Flutter Docs](https://flutter.dev
 Clone this repo on your local machine:
 
 ```cmd
-git clone https://github.com/Ethereal-Developers-Inc/OpenScan.git
+git clone https://github.com/Narlotl/OpenScan.git
 ```
 
 ### Using Android Studio:
